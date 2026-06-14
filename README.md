@@ -25,8 +25,8 @@ What I bring is solid CS fundamentals, consistent study habits, and a genuine in
 </div>
 
 <div align="center">
-
 **Languages**
+  
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -37,8 +37,8 @@ What I bring is solid CS fundamentals, consistent study habits, and a genuine in
 </div>
 
 <div align="center">
-
 **Frameworks & Libraries**
+  
 [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot)
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev)
@@ -48,8 +48,8 @@ What I bring is solid CS fundamentals, consistent study habits, and a genuine in
 </div>
 
 <div align="center">
-
 **Databases**
+  
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
@@ -57,8 +57,8 @@ What I bring is solid CS fundamentals, consistent study habits, and a genuine in
 </div>
 
 <div align="center">
-
 **Dev Environment & Tools**
+  
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 [![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
