@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=100&section=header&text=Abhay%20Raj&fontSize=35&fontColor=ffffff&fontAlignY=60&desc=MCA%20Student%20%7C%20Full-Stack%20Developer&descAlignY=82&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=100&section=header&text=Abhay%20Raj&fontSize=35&fontColor=ffffff&fontAlignY=60&desc=MCA%20Student%20%7C%20Full-Stack%20Developer&descAlignY=82&descSize=14" width="100%" />
 
 <div align="center">
 
@@ -18,6 +18,7 @@
 ### About Me
 
 </div>
+
 MCA student at **AKTU, Kanpur**, working through the full-stack spectrum — backend systems with Java and Spring Boot on one end, React-based frontends with TypeScript and Next.js on the other. 
 
 What I bring is solid CS fundamentals, consistent study habits, and a genuine interest in growing into backend engineering and full-stack development over time.
