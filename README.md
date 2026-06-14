@@ -35,8 +35,8 @@ What I bring is solid CS fundamentals, consistent study habits, and a genuine in
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 </div>
-
 <div align="center">
+  
 **Frameworks & Libraries**
   
 [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot)
@@ -46,8 +46,8 @@ What I bring is solid CS fundamentals, consistent study habits, and a genuine in
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
 
 </div>
-
 <div align="center">
+  
 **Databases**
   
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
@@ -55,8 +55,8 @@ What I bring is solid CS fundamentals, consistent study habits, and a genuine in
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
 
 </div>
-
 <div align="center">
+  
 **Dev Environment & Tools**
   
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
@@ -165,37 +165,6 @@ I try to keep a few principles consistent across everything I build:
 - Comfortable working independently and learning from well-structured codebases.
 
 ---
-
-<div align="center">
-
-### Fun Technical Facts
-
-</div>
-
-```java
-public class Abhay {
-
-    private static final String[] LANGUAGES    = {"Java", "TypeScript", "JavaScript", "Python"};
-    private static final String[] INTERESTS    = {"Backend Systems", "REST API Design", "Full-Stack Web", "Music Tech"};
-    private static final String   DAILY_DRIVER = "VS Code + IntelliJ IDEA";
-    private static final String   CURRENT_READ = "Head First Design Patterns";
-
-    public String debuggingPhilosophy() {
-        return "Read the stack trace. Actually read it.";
-    }
-
-    public String commitHabit() {
-        return "Small, meaningful commits > one giant WIP dump";
-    }
-
-    public String whenStuck() {
-        return "Rubber duck first. Stack Overflow second. Ask third.";
-    }
-}
-```
-
----
-
 <div align="center">
 
 ### Connect With Me
