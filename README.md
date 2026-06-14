@@ -1,15 +1,20 @@
+</div>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=100&section=header&text=Abhay%20Raj&fontSize=35&fontColor=ffffff&fontAlignY=60&desc=MCA%20Student%20%7C%20Full-Stack%20Developer&descAlignY=82&descSize=14" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=99999&color=F1F5F9&background=0A0F1A00&center=true&vCenter=true&width=520&height=60&lines=Abhay+Raj" alt="Abhay Raj" />
+
+</div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhayraj081/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](abhay.ark12@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AbhayRaj81)
-![Profile Views](https://komarev.com/ghpvc/?username=abhayraj81&style=for-the-badge&color=6e40c9&label=Profile+Views)
+![](https://img.shields.io/badge/MCA_Student-0a0f1a?style=flat-square&labelColor=0a0f1a&color=1e2d4a&logoColor=3b82f6)
+![](https://img.shields.io/badge/Full--Stack_Developer-0a0f1a?style=flat-square&labelColor=0a0f1a&color=1e2d4a)
+![](https://img.shields.io/badge/Kanpur,_IN-0a0f1a?style=flat-square&labelColor=0a0f1a&color=1e2d4a&logo=googlemaps&logoColor=3b82f6)
+
 </div>
-</div>
+
+---
 
 ---
 
