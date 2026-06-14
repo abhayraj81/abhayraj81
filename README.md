@@ -51,8 +51,6 @@ What I bring is solid CS fundamentals, consistent study habits, and a genuine in
 
 </div>
 
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=80&section=footer" width="100%" />
