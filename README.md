@@ -167,7 +167,6 @@ I try to keep a few principles consistent across everything I build:
 
 </div>
 
-- Running and operating **Kumar Events** (event management) and a **Music Academy** alongside studies — both involve day-to-day decisions around scheduling, communication, and resource management.
 - Interested in backend engineering roles, full-stack internships, and opportunities that involve real product work.
 - Comfortable working independently and learning from well-structured codebases.
 
@@ -212,13 +211,9 @@ public class Abhay {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-abhayraj81-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abhayraj81)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20Your%20Profile-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile-here)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20Your%20Profile-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhayraj081/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-ea4335?style=flat-square&logo=gmail&logoColor=white)](abhay.ark12@gmail.com)
 
-</div>
-
-<div align="center">
-<sub>← Update the LinkedIn and email links above before publishing</sub>
 </div>
 
 ---
