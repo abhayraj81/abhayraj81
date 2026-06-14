@@ -117,40 +117,6 @@ What I bring is solid CS fundamentals, consistent study habits, and a genuine in
 
 <div align="center">
 
-### Approach to Development
-
-</div>
-
-I try to keep a few principles consistent across everything I build:
-
-- **Readable over clever** — code that's easy to understand three weeks later is worth more than a clever one-liner today.
-- **Understanding before abstraction** — I prefer learning how something works before reaching for a library that hides it.
-- **Iteration over perfection** — shipping something functional and improving it beats waiting for the perfect version that never ships.
-- **Documentation as a habit** — commits, comments, and READMEs are part of the work, not afterthoughts.
-
----
-
-<div align="center">
-
-### Professional Background
-
-</div>
-
-<div align="center">
-
-![MCA Student](https://img.shields.io/badge/MCA-AKTU%2C%20Kanpur-0f172a?style=flat-square&logo=university&logoColor=white)
-![Backend Development](https://img.shields.io/badge/Focus-Backend%20%26%20Full--Stack-3b82f6?style=flat-square&logo=serverless&logoColor=white)
-![Open to Internships](https://img.shields.io/badge/Status-Open%20to%20Internships-22c55e?style=flat-square&logo=briefcase&logoColor=white)
-
-</div>
-
-- Interested in backend engineering roles, full-stack internships, and opportunities that involve real product work.
-- Comfortable working independently and learning from well-structured codebases.
-
----
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=80&section=footer" width="100%" />
 
 </div>
