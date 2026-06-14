@@ -27,42 +27,35 @@ What I bring is solid CS fundamentals, consistent study habits, and a genuine in
 <div align="center">
 
 **Languages**
-
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
 </div>
 
 <div align="center">
 
 **Frameworks & Libraries**
-
 [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot)
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev)
 [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
-
 </div>
 
 <div align="center">
 
 **Databases**
-
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
-
 </div>
 
 <div align="center">
 
 **Dev Environment & Tools**
-
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 [![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
@@ -70,7 +63,6 @@ What I bring is solid CS fundamentals, consistent study habits, and a genuine in
 [![Maven](https://skillicons.dev/icons?i=maven)](https://maven.apache.org)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://kernel.org)
-
 </div>
 
 ---
