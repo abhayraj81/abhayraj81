@@ -169,14 +169,12 @@ I try to keep a few principles consistent across everything I build:
 
 ### Connect With Me
 
-</div>
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-abhayraj81-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abhayraj81)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20Your%20Profile-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhayraj081/)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-ea4335?style=flat-square&logo=gmail&logoColor=white)](abhay.ark12@gmail.com)
-[!Profile Views](https://komarev.com/ghpvc/?username=abhayraj81&style=for-the-badge&color=6e40c9&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhayraj081/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](abhay.ark12@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AbhayRaj81)
+![Profile Views](https://komarev.com/ghpvc/?username=abhayraj81&style=for-the-badge&color=6e40c9&label=Profile+Views)
 
 </div>
 
