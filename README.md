@@ -2,6 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=120&section=header&text=Abhay%20Raj&fontSize=40&fontColor=ffffff&fontAlignY=60&desc=MCA%20Student%20%7C%20Full-Stack%20Developer&descAlignY=82&descSize=16" width="100%" />
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhayraj081/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](abhay.ark12@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AbhayRaj81)
+![Profile Views](https://komarev.com/ghpvc/?username=abhayraj81&style=for-the-badge&color=6e40c9&label=Profile+Views)
+
+</div>
+
 </div>
 
 ---
@@ -165,26 +174,8 @@ I try to keep a few principles consistent across everything I build:
 - Comfortable working independently and learning from well-structured codebases.
 
 ---
-<div align="center">
-
-### Connect With Me
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhayraj081/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](abhay.ark12@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AbhayRaj81)
-![Profile Views](https://komarev.com/ghpvc/?username=abhayraj81&style=for-the-badge&color=6e40c9&label=Profile+Views)
-
-</div>
-
----
-
-<div align="center">
-
-I'm at the beginning of a long career in software development. Every repository here represents something learned, not something finished. If you're looking for someone still building their fundamentals with discipline and intention, feel free to reach out.
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=80&section=footer" width="100%" />
 
