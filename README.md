@@ -12,11 +12,9 @@
 
 </div>
 
-MCA first-year student at **AKTU, Kanpur**, working through the full-stack spectrum — backend systems with Java and Spring Boot on one end, React-based frontends with TypeScript and Next.js on the other. I build things to understand them, and I write code that I'd be comfortable reading six months later.
+MCA student at **AKTU, Kanpur**, working through the full-stack spectrum — backend systems with Java and Spring Boot on one end, React-based frontends with TypeScript and Next.js on the other. 
 
-Outside of coursework, I manage real operational responsibilities — running **Kumar Events** and a **Music Academy** — which has given me a practical sense of how software solves actual problems, not just academic ones.
-
-I'm at an early stage in my career. What I bring is solid CS fundamentals, consistent study habits, and a genuine interest in growing into backend engineering and full-stack development over time.
+What I bring is solid CS fundamentals, consistent study habits, and a genuine interest in growing into backend engineering and full-stack development over time.
 
 ---
 
