@@ -41,27 +41,6 @@ What I bring is solid CS fundamentals, consistent study habits, and a genuine in
 
 <div align="center">
 
-### Currently Learning
-
-</div>
-
-<div align="center">
-
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST API Design](https://img.shields.io/badge/REST%20API%20Design-005571?style=flat-square&logo=openapiinitiative&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1e293b?style=flat-square&logo=thealgorithms&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate%20%2F%20JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker%20(Basics)-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</div>
-
-My current focus is deepening backend knowledge — building secure, well-structured REST APIs with Spring Boot, understanding JPA/Hibernate at the query level, and gradually picking up containerization concepts. On the frontend side, I'm getting more deliberate with TypeScript patterns and Next.js App Router conventions.
-
----
-
-<div align="center">
-
 ### GitHub Statistics
 
 </div>
