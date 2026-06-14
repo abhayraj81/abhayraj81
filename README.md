@@ -33,6 +33,7 @@ What I bring is solid CS fundamentals, consistent study habits, and a genuine in
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 </div>
 
 <div align="center">
@@ -43,6 +44,7 @@ What I bring is solid CS fundamentals, consistent study habits, and a genuine in
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev)
 [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+
 </div>
 
 <div align="center">
@@ -51,6 +53,7 @@ What I bring is solid CS fundamentals, consistent study habits, and a genuine in
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
+
 </div>
 
 <div align="center">
@@ -63,6 +66,7 @@ What I bring is solid CS fundamentals, consistent study habits, and a genuine in
 [![Maven](https://skillicons.dev/icons?i=maven)](https://maven.apache.org)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://kernel.org)
+
 </div>
 
 ---
