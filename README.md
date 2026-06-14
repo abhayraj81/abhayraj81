@@ -1,17 +1,11 @@
-</div>
-
+<div>
+  
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=99999&color=F1F5F9&background=0A0F1A00&center=true&vCenter=true&width=520&height=60&lines=Abhay+Raj" alt="Abhay Raj" />
-
-</div>
-
-<div align="center">
-
-![](https://img.shields.io/badge/MCA_Student-0a0f1a?style=flat-square&labelColor=0a0f1a&color=1e2d4a&logoColor=3b82f6)
-![](https://img.shields.io/badge/Full--Stack_Developer-0a0f1a?style=flat-square&labelColor=0a0f1a&color=1e2d4a)
-![](https://img.shields.io/badge/Kanpur,_IN-0a0f1a?style=flat-square&labelColor=0a0f1a&color=1e2d4a&logo=googlemaps&logoColor=3b82f6)
-
+  
+<p align="center">
+  <img src="header.svg" width="100%" alt="Abhay Raj — Header" />
+</p>
+  
 </div>
 
 ---
