@@ -10,7 +10,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=abhayraj81&style=for-the-badge&color=6e40c9&label=Profile+Views)
 </div>
 </div>
+
 ---
+
 <div align="center">
   
 ### About Me
@@ -19,6 +21,7 @@
 MCA student at **AKTU, Kanpur**, working through the full-stack spectrum — backend systems with Java and Spring Boot on one end, React-based frontends with TypeScript and Next.js on the other. 
 
 What I bring is solid CS fundamentals, consistent study habits, and a genuine interest in growing into backend engineering and full-stack development over time.
+
 ---
 
 <div align="center">
@@ -27,6 +30,7 @@ What I bring is solid CS fundamentals, consistent study habits, and a genuine in
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhayraj81/abhayraj81/output/bomberman-contribution-graph.svg">
   <img alt="Bomberman contribution graph" src="https://raw.githubusercontent.com/abhayraj81/abhayraj81/output/bomberman-contribution-graph.svg" width="96%" />
 </picture>
+  
 ---
 
 <div align="center">
