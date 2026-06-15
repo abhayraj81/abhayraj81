@@ -1,3 +1,9 @@
+<div align="right">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=abhayraj81&style=for-the-badge&color=6e40c9&label=Profile+Views)
+
+</div>
+  
 <div>
   
 <div align="center">
