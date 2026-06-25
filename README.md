@@ -49,8 +49,8 @@ What I bring is solid CS fundamentals, consistent study habits, and a genuine in
 
 <p align="center">
 <a href="https://github.com/abhayraj81">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=niteangel2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhayraj81&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=niteangel2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhayraj81&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
