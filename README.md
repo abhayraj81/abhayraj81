@@ -46,7 +46,6 @@ What I bring is solid CS fundamentals, consistent study habits, and a genuine in
 
 ### GitHub Statistics
 
-</div>
 
 <div align="center">
 
