@@ -46,13 +46,14 @@ What I bring is solid CS fundamentals, consistent study habits, and a genuine in
 
 ### GitHub Statistics
 
+</div>
 
-<p align="center">
-<a href="https://github.com/abhayraj81">
-  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhayraj81&show_icons=true&theme=github-dark-blue&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhayraj81&layout=compact&langs_count=8&theme=github-dark-blue"/>
-</a>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abhayraj81&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=450" height="170" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayraj81&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
+</div>
 
 <div align="center">
 
