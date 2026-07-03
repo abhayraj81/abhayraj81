@@ -49,7 +49,7 @@ What I bring is solid CS fundamentals, consistent study habits, and a genuine in
 </div>
 
 <div align="center">
-![Readme Stats](https://raw.githubusercontent.com/satyvm/satyvm/output/readme-stats.svg)
+
 </div>
 
 <div align="center">
