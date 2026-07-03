@@ -49,9 +49,7 @@ What I bring is solid CS fundamentals, consistent study habits, and a genuine in
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhayraj81&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github&card_width=450" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayraj81&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
+![Readme Stats](https://raw.githubusercontent.com/satyvm/satyvm/output/readme-stats.svg)
 </div>
 
 <div align="center">
