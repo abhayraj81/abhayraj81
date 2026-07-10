@@ -52,9 +52,17 @@ What I bring is solid CS fundamentals, consistent study habits, and a genuine in
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=abhayraj81&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="200" />
 
-&nbsp;
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayraj81&layout=compact&theme=github_dark_blue&hide_border=true&langs_count=8" height="200" />
+<div align="center">
+
+### Most Used Languages
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayraj81&layout=compact&theme=github_dark_blue&hide_border=true&langs_count=8&card_width=600" width="600" />
 
 </div>
 
