@@ -56,18 +56,6 @@ What I bring is solid CS fundamentals, consistent study habits, and a genuine in
 
 <div align="center">
 
-### Most Used Languages
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayraj81&layout=compact&theme=github_dark_blue&hide_border=true&langs_count=8&card_width=600" width="600" />
-
-</div>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=80&section=footer" width="100%" />
 
 </div>
