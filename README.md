@@ -44,18 +44,6 @@ What I bring is solid CS fundamentals, consistent study habits, and a genuine in
 
 <div align="center">
 
-### GitHub Statistics
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=abhayraj81&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="200" />
-
-</div>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=80&section=footer" width="100%" />
 
 </div>
